@@ -25,6 +25,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "1001", "nombre": "nuggets", "precio": 4000 },
+        { "id": "1002", "nombre": "salsa", "precio": 1000 },
+        { "id": "1003", "nombre": "papas", "precio": 4000 }
+      ],
       "platos": [
         {
           "id":"101",
@@ -110,6 +115,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "2001", "nombre": "tomate", "precio": 4000 },
+        { "id": "2002", "nombre": "peperonis", "precio": 1000 },
+        { "id": "2003", "nombre": "jalapeños", "precio": 5000 }
+      ],
       "platos": [
         {
           "id":"201",
@@ -167,6 +177,11 @@
           "sabado": "11:00-23:00",
           "domingo": "11:00-21:00"
         }
+      ],
+      "ingredientesExtras": [
+        { "id": "3001", "nombre": "papas", "precio": 4000 },
+        { "id": "3002", "nombre": "aderezos", "precio": 1000 },
+        { "id": "3003", "nombre": "arroz", "precio": 5000 }
       ],
       "platos": [
         {
@@ -255,6 +270,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "4001", "nombre": "verduras", "precio": 4000 },
+        { "id": "4002", "nombre": "wok", "precio": 1000 },
+        { "id": "4003", "nombre": "jalapeños", "precio": 5000 }
+      ],
       "platos": [
         {
           "id":"401",
@@ -328,6 +348,11 @@
           "sabado": "11:00-23:00",
           "domingo": "11:00-21:00"
         }
+      ],
+      "ingredientesExtras": [
+        { "id": "5001", "nombre": "papas", "precio": 4000 },
+        { "id": "5002", "nombre": "yucas", "precio": 1000 },
+        { "id": "5003", "nombre": "ensalada", "precio": 5000 }
       ],
       "platos": [
         {
@@ -409,6 +434,11 @@
           "sabado": "11:00-23:00",
           "domingo": "11:00-21:00"
         }
+      ],
+      "ingredientesExtras": [
+        { "id": "6001", "nombre": "papas cocinadas", "precio": 4000 },
+        { "id": "6002", "nombre": "platanos maduros", "precio": 1000 },
+        { "id": "6003", "nombre": "yucas fritas", "precio": 5000 }
       ],
       "platos": [
         {
@@ -505,6 +535,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "7001", "nombre": "suhshi x3", "precio": 4000 },
+        { "id": "7002", "nombre": "salsas caseras", "precio": 1000 },
+        { "id": "7003", "nombre": "ushilover x2", "precio": 5000 }
+      ],
       "platos": [
         {
           "id":"701",
@@ -600,6 +635,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "8001", "nombre": "aguacate sushi x 2", "precio": 4000 },
+        { "id": "8002", "nombre": "salmon sushi x1", "precio": 1000 },
+        { "id": "8003", "nombre": "marinero salsa casera", "precio": 5000 }
+      ],
       "platos": [
         {
           "id":"801",
@@ -693,6 +733,11 @@
           "domingo": "11:00-21:00"
         }
       ],
+      "ingredientesExtras": [
+        { "id": "9001", "nombre": "sushi langostino x 2", "precio": 4000 },
+        { "id": "9002", "nombre": "sushi picante x 1", "precio": 1000 },
+        { "id": "9003", "nombre": "salsa caseras", "precio": 5000 }
+      ],
       "platos": [
         {
           "id":"901",
@@ -758,6 +803,11 @@
           "sabado": "11:00-23:00",
           "domingo": "11:00-21:00"
         }
+      ],
+      "ingredientesExtras": [
+        { "id": "10001", "nombre": "pan caramelo", "precio": 4000 },
+        { "id": "10002", "nombre": "dona queso", "precio": 1000 },
+        { "id": "10003", "nombre": "palillo de queso x 3", "precio": 5000 }
       ],
       "platos": [
         {

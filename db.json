@@ -35,56 +35,56 @@
           "id":"101",
           "nombre": "Combo Nuggets",
           "descripcion": "10 Nuggets + 1 Papa Pequeña + 1 Gaseosa Pet 400ml + 1 Salsa BBQ + 1 Salsa del Coronel",
-          "precio": "20.900",
+          "precio": 20.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_6492_744x744_1719959826.png?d=600x600&format=webp"
         },
         {
           "id":"102",
           "nombre": "Parte Y Comparte Nuggets",
           "descripcion": "5 Presas de Pollo + 5 Nuggets + 2 Papas Pequeñas + 2 Gaseosas Pet 400ml",
-          "precio": "39.900",
+          "precio": 39.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_6499_744x744_1734877139.png?d=600x600&format=webp"
         },
         {
           "id":"103",
           "nombre": "Combo Kentucky Sandwich",
           "descripcion": "1 Kentucky hamburguesa /Sandwich (1 Filete de pechuga de pollo apanado, pepinillos, mayonesa premium y mantequilla) + 1 Papa Pequeña + 1 Gaseosa PET 400ml",
-          "precio": "21.900",
+          "precio": 21.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_4720_744x744_1737665253.png?d=600x600&format=webp"
         },
         {
           "id":"104",
           "nombre": "Combo Kentucky Coronel Sandwich",
           "descripcion": "1 Kentucky Coronel hamburguesa / Sandwich (1 Filete de pechuga de pollo apanado, Ensalada Coleslaw, BBQ y mantequilla) + 1 Papa Pequeña + 1 Gaseosa PET 400ml",
-          "precio": "23.900",
+          "precio": 23.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_5281_744x744_1737379492.png?d=600x600&format=webp"
         },
         {
           "id":"105",
           "nombre": "Mega Familiar Arepas",
           "descripcion": "8 Presas de Pollo + 8 Arepas",
-          "precio": "49.900",
+          "precio": 49.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_6421_744x744_1730235903.png?d=600x600&format=webp"
         },
         {
           "id":"106",
           "nombre": "PopCorn Grande",
           "descripcion": "1 PopCorn Grande - 16 oz aprox (Trocitos de pechuga de pollo apanados)",
-          "precio": "25.900",
+          "precio": 25.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_116_720x720_1660826706.png?d=600x600&format=webp"
         },
         {
           "id":"107",
           "nombre": "20 Alitas Picantes",
           "descripcion": "20 Alitas Picantes (Las alitas picantes hot wings equivalen a un trozo de ala)",
-          "precio": "39.900",
+          "precio": 39.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_108_720x720_1660826826.png?d=600x600&format=webp"
         },
         {
           "id":"108",
           "nombre": "Mega Familiar",
           "descripcion": "8 Presas de Pollo + 4 Papas Pequeñas",
-          "precio": "63.900",
+          "precio": 63.900,
           "imagen": "https://images.getduna.com/5fe6067e-0e11-4869-9118-ad3dcc8765c2/158f32cb82124cb2_domicilio_2488_744x744_1730235977.png?d=600x600&format=webp"
         }
       ],
@@ -125,28 +125,28 @@
           "id":"201",
           "nombre": "3 Estaciones",
           "descripcion": "Nuestra versión especial de pollo y champiñones con chorizo.",
-          "precio": "25.000",
+          "precio": 25.000,
           "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/40683b7b-6329-4fda-8c53-b5214edb696b.jpg"
         },
         {
           "id":"202",
           "nombre": "Americana",
           "descripcion": "Maíz tierno y tocineta con un toque picantico de pepperoni.",
-          "precio": "27.000",
+          "precio": 27.000,
           "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/88699162-e053-4499-ba5a-615f43488661.jpg"
         },
         {
           "id":"203",
           "nombre": "Honolulu",
           "descripcion": "Una combinación increíble con piña, tocineta y jalapeño",
-          "precio": "18.000",
+          "precio": 18.000,
           "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/f8d6390a-85fc-4298-ab25-df5117841043.jpg"
         },
         {
           "id":"204",
           "nombre": "Triple Pepperoni",
           "descripcion": "Perfectamente horneada con el sabor del pepperoni en su máxima expresión",
-          "precio": "32.000",
+          "precio": 32.000,
           "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/46ec07f8-b311-4ffe-bd91-6d1880676a17.jpg"
         }
       ],
@@ -188,56 +188,56 @@
           "id":"301",
           "nombre": "Cuarto Frisby arepas",
           "descripcion": "2 Presas y 3 arepas",
-          "precio": "18.000",
+          "precio": 18.000,
           "imagen": "https://wsres.vensis.com.co/web/product/Pollo-Apanado-Cuarto.png"
         },
         {
           "id":"302",
           "nombre": "Combo Nuestro",
           "descripcion": "2 Presas apanadas, ensalada de repollo personal (145 g), papas a la francesa mediana (60 g) y gaseosa (325 ml)",
-          "precio": "23.900",
+          "precio": 23.900,
           "imagen": "https://wsres.vensis.com.co/web/product/ComboNuestro.png"
         },
         {
           "id":"303",
           "nombre": "Frisby Clásico",
           "descripcion": "2 Presas apanadas, ensalada de repollo personal (145 g) y gaseosa (325 ml)",
-          "precio": "21.900",
+          "precio": 21.900,
           "imagen": "https://wsres.vensis.com.co/web/product/Combos-Frisby-Clasico.png"
         },
         {
           "id":"304",
           "nombre": "Combo Fristiernos BBQ",
           "descripcion": "4 Tenders de pollo apanado Crispy (45 g und) bañados en salsa BBQ ligeramente picante, papas a la francesa mediana (60 g) y gaseosa (325 ml)",
-          "precio": "24.600",
+          "precio": 24.600,
           "imagen": "https://wsres.vensis.com.co/web/product/Combos-Frisby-Clasico.png"
         },
         {
           "id":"305",
           "nombre": "Frisnacks nuggets mediano en caja",
           "descripcion": "11 Trozos de pechuga apanada (15 g und), papas a la francesa grande (100 g), gaseosa (400 ml)",
-          "precio": "25.400",
+          "precio": 25.400,
           "imagen": "https://wsres.vensis.com.co/web/product/FrisnackNuggetsCaja.png"
         },
         {
           "id":"306",
           "nombre": "Frisby Picanugys BBQ",
           "descripcion": "9 Trozos de pechuga apanada (15 g und) bañados en salsa BBQ ligeramente picante, papas a la francesa mediana (60 g), ensalada de repollo personal (145 g) y gaseosa (325 ml)",
-          "precio": "24.200",
+          "precio": 24.200,
           "imagen": "https://wsres.vensis.com.co/web/product/Combos-Combo-Picanugys-BBQ.png"
         },
         {
-          "id":"307",
+          "id":"307"
           "nombre": "Frisnacks nuggets grande en cono",
           "descripcion": "13 Trozos de pechuga apanada (15 g und), papas a la francesa grande (100 g), gaseosa (470 ml)",
-          "precio": "27.500",
+          "precio": 27.500,
           "imagen": "https://wsres.vensis.com.co/web/product/FrisnackNuggets.png"
         },
         {
           "id":"308",
           "nombre": "Super Frispicada",
           "descripcion": "10 Alitas (una alita equivale a un trozo de ala), 15 Picanugys (22 g und), 12 tornados de pollo (12 g und), 15 croquetas de yuca sticks, 5 trozos de mazorca dulce, 8 arepas y 4 presas apanadas.",
-          "precio": "99.500",
+          "precio": 99.500,
           "imagen": "https://wsres.vensis.com.co/web/product/Promociones-Super-Frispicada.png"
         }
       ],
@@ -280,45 +280,45 @@
           "id":"401",
           "nombre": "Combo Promo Personal",
           "descripcion": "Combo Personal, 1 Base, 2 Acompañantes y bebida Postobón a elección de 400ML",
-          "precio": "26.900",
+          "precio": 26.900,
           "imagen": "https://www.bing.com/images/blob?bcid=Tj8SomF4agoIqxcxoNWLuD9SqbotqVTdP-M"
         },
         {
           "id":"402",
           "nombre": "Combo Prime",
           "descripcion": "Menú personal, 1 base y 3 acompañantes y bebida Postobón a elección de 400ML",
-          "precio": "37.900",
+          "precio": 37.900,
           "imagen": "https://www.bing.com/images/blob?bcid=TsV0AI3VGAoIqxcxoNWLuD9SqbotqVTdPwI"
         },
         {
           "id":"403",
           "nombre": "Promo Mega Familiar",
           "descripcion": "Incluye 3 Bases, 3 Acompañantes y 2 Bebidas 1.5 Litros.",
-          "precio": "102.500",
+          "precio": 102.500
           "imagen": "https://www.bing.com/images/blob?bcid=slG.jUIf4woInSfdkxpK-oQDBoyU.....0I"
         },
         {
           "id":"404",
           "nombre": "Dúo Wok",
           "descripcion": "Ideal para 2 personas: 1 Base, 2 Acompañantes, 2 Lumpias y 2 bebidas Postobón a elección de 400ML.",
-          "precio": "51.900",
+          "precio": 51.900,
           "imagen": "https://www.bing.com/images/blob?bcid=TtRlk4UDzwoIqxcxoNWLuD9SqbotqVTdP64"
         },
         {
           "id":"405",
           "nombre": "Wok Familiar",
           "descripcion": "Ideal para 4 personas: 1 Base de arroz oriental, 1 Base a elección, 2 Acompañantes, 4 lumpias y una bebida Postobón a elección 1.5L.",
-          "precio": "86.900",
+          "precio": 86.900,
           "imagen": "https://www.bing.com/images/blob?bcid=Tn-jhw3KkgoIqxcxoNWLuD9SqbotqVTdP.g"
         },
         {
           "id":"406",
           "nombre": "Mega Wok",
           "descripcion": "Ideal para 6 personas: Incluye 3 Bases y 3 Acompañantes.",
-          "precio": "99.700",
+          "precio": 99.700,
           "imagen": "https://www.bing.com/images/blob?bcid=Tp.otFyIkQoIqxcxoNWLuD9SqbotqVTdP9o"
         }
-      ],
+      ]
       "redesSociales": {
         "facebook": "",
         "instagram": ""
@@ -359,14 +359,14 @@
           "id":"501",
           "nombre": "sopa de guineo verde",
           "descripcion": "deliciosa sopa de guineo con ingredientes de la casa",
-          "precio": "10.900",
+          "precio": 10.900,
           "imagen": ""
         },
         {
           "id":"502",
           "nombre": "sopa de guineo verde",
           "descripcion": "deliciosa sopa de guineo con ingredientes de la casa",
-          "precio": "10.900",
+          "precio": 10.900,
           "imagen": "https://www.mycolombianrecipes.com/wp-content/uploads/2009/11/Sopa-de-Guineo-360x360.jpg"
         },
         {
@@ -380,28 +380,28 @@
           "id":"504",
           "nombre": "picada individual",
           "descripcion": "80g de pollo, 60g de carne de res o carne de cerdo, 50g de costillas, platano maduro, papas cocidas y salsas de la casa",
-          "precio": "32.900",
+          "precio": 32.900,
           "imagen": ""
         },
         {
           "id":"505",
           "nombre": "media picada",
           "descripcion": "40g de pollo, 30g de carne de res o carne de cerdo, 25g de costillas, platano maduro, papas cocidas y salsas de la casa",
-          "precio": "52.900",
+          "precio": 52.900,
           "imagen": "https://th.bing.com/th/id/OIP.ZtRjQNP1Fsl9oS066BPLtAHaFD?rs=1&pid=ImgDetMain"
         },
         {
           "id":"506",
           "nombre": "hamburguesa clasica",
-          "descripcion": "hamburguesa clasica carne llanera doble queso",
-          "precio": "25.900",
+          "descripcion": "hamburguesa clasica cane llanera doble queso",
+          "precio": 25.900,
           "imagen": "https://th.bing.com/th/id/R.5c42d447949a29f3e2cf0bd89bf09fc0?rik=CwUnjszzOtqTSg&pid=ImgRaw&r=0"
         },
         {
           "id":"507",
           "nombre": "almuerzo clasico",
           "descripcion": "almuerzo clasico carbon arroz, carne asada cerdo o res, principio al gusto acompañadop de una rica sopa ",
-          "precio": "22.000",
+          "precio": 22.000,
           "imagen": "https://th.bing.com/th/id/R.3a1b7e44130b1e14aa96718a1464a188?rik=ftiGqf6I8kIqgQ&pid=ImgRaw&r=0"
         }
       ],
@@ -445,63 +445,63 @@
           "id":"601",
           "nombre": "Parrillada Mixta 3 Carnes",
           "descripcion": "Carne mixta 450 g de res, cerdo y pollo, ensalada, papa con sour cream y plátano maduro.",
-          "precio": "49.900",
+          "precio": 49.900,
           "imagen": "https://images.rappi.com/products/f3f7ddd7-2d26-46a6-ab9b-f118d3065e8f-1725170388704.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"602",
           "nombre": "Baby Beef",
           "descripcion": "Baby beef 250 g, ensalada y acompañante a elección.",
-          "precio": "65.900",
+          "precio": 65.900,
           "imagen": "https://images.rappi.com/products/2df75b39-b757-4aea-b279-91da9954c41d-1713877685921.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"603",
           "nombre": "Churrasco",
           "descripcion": "Churrasco 250 g lomo caracho, ensalada y acompañante a elección.",
-          "precio": "54.900",
+          "precio": 54.900,
           "imagen": "https://images.rappi.com/products/6c2802cf-3256-4ab2-9002-50606ec22810-1736357043166.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"604",
           "nombre": "Picada Sevillana",
           "descripcion": "Picada familiar para 3 o 4 personas con 950g cerdo, pollo, costilla, chorizo, moneditas de plátano y papa criolla.",
-          "precio": "79.900",
+          "precio": 79.900,
           "imagen": "https://images.rappi.com/products/d99adb61-110c-4474-b382-6b285f1a9798-1736356942895.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"605",
           "nombre": "Combo Hamburguesa Mix",
           "descripcion": "Hamburguesa de carne 150 g, tocineta, queso cheddar, maduro, sour cream, acompañante y bebida a elección.",
-          "precio": "29.900",
+          "precio": 29.900,
           "imagen": "https://images.rappi.com/products/2091891669-1694811881901.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"606",
           "nombre": "Combo Hamburguesa Ranchera",
           "descripcion": "Hamburguesa de carne 150 g, chorizo, chimichurri, queso cheddar, tomate, lechuga, cebolla, salsas, acompañante y bebida a elección.",
-          "precio": "29.900",
+          "precio": 29.900,
           "imagen": "https://images.rappi.com/products/2091891672-1694811937773.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"607",
           "nombre": "Combo Hamburguesa Urbana",
           "descripcion": "Hamburguesa carne 150 g a la parrilla, tocineta caramelizada, cebolla, tomate, ripio de papa y salsas, acompañante y bebida a elección.",
-          "precio": "30.900",
+          "precio": 30.900,
           "imagen": "https://images.rappi.com/products/4a5a390a-e15e-4dfd-9eac-b058cc106a7f-1737381190997.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"608",
           "nombre": "Picada Artesanal",
           "descripcion": "Picada 500 g de cerdo, pollo, costilla, chorizo, papa rústica, plátano maduro y moneditas de plátano.",
-          "precio": "52.900",
+          "precio": 52.900,
           "imagen": "https://images.rappi.com/products/e02c40a6-2d1d-4954-a9c7-f02311810472-1736356954056.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"609",
           "nombre": "Jugos Naturales",
           "descripcion": "Jugo natural en agua con fruta a elección.",
-          "precio": "8.900",
+          "precio": 8.900,
           "imagen": "https://images.rappi.com/products/2091908700-1657073049443.jpg?e=webp&d=511x511&q=85"
         }
       ],
@@ -511,7 +511,7 @@
       }
     },
     {
-      "id": "7",
+      "id": "7"
       "nombre": "sushi Green",
       "categorias": [
         "comida oriental",
@@ -545,63 +545,63 @@
           "id":"701",
           "nombre": "Sushilover Gratis 6 Un",
           "descripcion": "Sushi de 11 Bocados a elección y gratis rollo de 6 bocados a elección.",
-          "precio": "44.000",
+          "precio": 44.000,
           "imagen": "https://images.rappi.com/products/2090116151-1567093923.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"702",
           "nombre": "Promo Maki Tradicional X24 Un",
           "descripcion": "Sushi Tradicional 4 sabores a elección x 24 bocados.",
-          "precio": "69.350",
+          "precio": 69.350,
           "imagen": "https://images.rappi.com/products/2094331306-1638817634277_hq.jpeg?e=webp&d=511x511&q=85"
         },
         {
           "id":"703",
           "nombre": "Maduro Green X 11 Un",
           "descripcion": "Sushi con langostino crocante al panko, queso crema y aguacate, envuelto en plátano maduro.",
-          "precio": "35.200",
+          "precio": 35.200,
           "imagen": "https://images.rappi.com/products/2090115997-1567094587.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"704",
           "nombre": "22 Bocados Calamares Crunch",
           "descripcion": "Sushi con calamares al panko y queso crema, envuelto en zanahoria crocante. 22 Bocados",
-          "precio": "70.000",
+          "precio": 70.000,
           "imagen": "https://images.rappi.com/products/2090115975-1567094384.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"705",
           "nombre": "Maki Tradicional X48 Un",
           "descripcion": "Sushi Tradicional 4 sabores a elección x 48 bocados.",
-          "precio": "156.000",
+          "precio": 156.000,
           "imagen": "https://images.rappi.com/products/2094331306-1638817634277_hq.jpeg?e=webp&d=511x511&q=85"
         },
         {
           "id":"706",
           "nombre": "Banana Green X 6 Un",
           "descripcion": "Sushi vegetariano con cebolla tempurada, queso crema y aguacate, envuelto en plátano maduro. Tamaño a elección.",
-          "precio": "34.100",
+          "precio": 34.100,
           "imagen": "https://images.rappi.com/products/2090116179-1533876571.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"707",
           "nombre": "Poke Bowl Camarones Tempurados",
           "descripcion": "Camarones tempurados glaseados en sala agridulce, calabacín verde y amarillo, zanahoria crispy, aguacate, sewaead salad, pepino, maíz cancha, semillas de ajonjolí negro y arroz de sushi.",
-          "precio": "47.300",
+          "precio": 47.300,
           "imagen": "https://images.rappi.com/products/2093367153-1691184034024.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"708",
           "nombre": "Costillas Fusión",
           "descripcion": "Arroz con vegetales frescos al wok, costillas de cerdo a la parrilla, salsa teriyaki, camarones y aguacate.",
-          "precio": "58.300",
+          "precio":58.30,
           "imagen": "https://images.rappi.com/products/2090116305-1533876641.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"709",
           "nombre": "Arroz Bamboo de Camarón",
           "descripcion": "Arroz preparado al wok con camarón tempurado, maíz tierno, plátano maduro, salsa soya, salsa teriyaki y cebollín. vegetales salteados al wok.",
-          "precio": "39.600",
+          "precio": 39.600,
           "imagen": "https://images.rappi.com/products/de0fbfb3-2b5c-49fb-8568-f10973ee5438-1719001541267.png?e=webp&d=511x511&q=85"
         }
       ],
@@ -645,7 +645,7 @@
           "id":"801",
           "nombre": "Cantonés",
           "descripcion": "Arroz con cebolla morada, zanahoria, raíces, champiñones, ajo, jengibre, pollo y camarón, 800 gr.",
-          "precio": "33.000",
+          "precio": 33.000,
           "imagen": "https://images.rappi.com/products/2094740418-1652733815217.jpg?e=webp&d=511x511&q=85"
         },
         {
@@ -659,12 +659,12 @@
           "id":"803",
           "nombre": "Tallarines de Arroz",
           "descripcion": "Tallarines de arroz al wok con proteína a elegir, pimentón rojo, cebolla morada, apio y zanahoria, 350 gr.",
-          "precio": "21.500",
+          "precio": 21.500,
           "imagen": "https://images.rappi.com/products/2094740421-1652733795049.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"804",
-          "nombre": "Yakimeshi",
+          "nombre": Yakimeshi,
           "descripcion": "Arroz salteado al vapor con pimentón rojo, verde, zanahoria, cebolla larga, cilantro, soya, sal y proteína a elegir, 350 gr.",
           "precio": "20.000",
           "imagen": "https://images.rappi.com/products/64cafd86-b892-4950-a225-9ac3e9aabe71-1653432543983.png?e=webp&d=511x511&q=85"
@@ -673,35 +673,35 @@
           "id":"805",
           "nombre": "Colombian Roll",
           "descripcion": "Roll con queso crema, queso crispy y envuelto en plátano maduro, 12 bocados.",
-          "precio": "25.800",
+          "precio": 25.800,
           "imagen": "https://images.rappi.com/products/2094740394-1652733806037.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"806",
           "nombre": "Veggie Roll",
           "descripcion": "Roll con zanahoria, pimentón, tempura y aguacate, 12 bocados.",
-          "precio": "25.800",
+          "precio": 25.800,
           "imagen": "https://images.rappi.com/products/2094740402-1652733795048.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"807",
           "nombre": "Yogui Roll",
           "descripcion": "Roll con calamares, palmito y aguacate envuelto en panko, 12 bocados.",
-          "precio": "25.800",
+          "precio": 25.800,
           "imagen": "https://images.rappi.com/products/2094740404-1652733799408.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"808",
           "nombre": "Ceviche Mixto",
           "descripcion": "Camarón escalfado 100 gr con pescado blanco, pimentón, cebolla roja, aguacate, maíz tierno, limón, naranja, sriracha, sal y ajinomoto.",
-          "precio": "20.300",
+          "precio": 20.300,
           "imagen": "https://images.rappi.com/products/2094740427-1652733820289.jpg?e=webp&d=511x511&q=85"
         },
         {
           "id":"809",
           "nombre": "Oreo Sushi",
           "descripcion": "3 Galletas de oreo rellenas de queso crema y helado de vainilla con trozos de galleta oreo.",
-          "precio": "11.900",
+          "precio": 11.900,
           "imagen": "https://images.rappi.com/products/2094740441-1652733820311.jpg?e=webp&d=511x511&q=85"
         }
       ],
@@ -743,35 +743,35 @@
           "id":"901",
           "nombre": "2x1 Acevichado Roll",
           "descripcion": "Sushi con palmito de cangrejo tempura, aguacate y queso crema en su interior. Con topping de ceviche de pargo rojo.",
-          "precio": "39.000",
+          "precio": 39.000,
           "imagen": "https://images.rappi.com/products/2090345383-1550026572.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"902",
           "nombre": "50 Makis Premium",
           "descripcion": "10 Makis godai roll 10 makis mari roll 10 makis ojo de tigre 10 makis tempura banzai 10 makis tempura sumiday. 50 bocados en total top.",
-          "precio": "120.000",
+          "precio": 120.000,
           "imagen": "https://images.rappi.com/products/5a0bb1ec-c966-4570-9a84-b3329cea3093-1686077053770.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"903",
           "nombre": "Combo Osaka",
           "descripcion": "30 makis y entrada de cangrequeso 5 makis volcano tradicional, 5 makis volcano tempura, 5 makis futumaki roll, 5 makis hernanshi, 5 makis philadelphia tempura, 5 makis tuna roll y 1 porcion de cangrequeso",
-          "precio": "165.900",
+          "precio": 165.900,
           "imagen": "https://images.rappi.com/products/2093617419-1622665051798_hq.jpeg?e=webp&d=511x511&q=85"
         },
         {
           "id":"904",
           "nombre": "Sushi Pizza Mura",
           "descripcion": "Base de arroz de sushi,queso crema, palmitos de cangrejo aderezados con salsa mura, salmón fresco, aguacate y salsa teriyaki .",
-          "precio": "22.000",
+          "precio": 22.000,
           "imagen": "https://images.rappi.com/products/e01c3371-cef6-43b8-89fa-7522e9cf9988-1697647553769.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"905",
           "nombre": "Combo Lunch 1",
           "descripcion": "Sopa tom yum, arroz yaki pollo, sushi tempura sumiday 5 makis, limonada natural",
-          "precio": "50.000",
+          "precio": 50.000,
           "imagen": "https://images.rappi.com/products/0996b0bf-9c81-40a3-87d7-2d6928fc39e7-1732312616551.png?e=webp&d=511x511&q=85"
         }
       ],
@@ -814,35 +814,35 @@
           "id":"1001",
           "nombre": "Cappuccino Md+ Almojabana+ Pandebono",
           "descripcion": "Disfruta tu desayuno con un cappuccino tradicional mediano, una almojábana y un pandebono.",
-          "precio": "26.700",
+          "precio": 26.700,
           "imagen": "https://images.rappi.com/products/tmpImg68110dd5-ff90-4c36-80e2-972bae80065f.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"1002",
           "nombre": "Café Americano Md + Arepa",
           "descripcion": "Disfruta tu desayuno con un café americano mediano y una arepa de queso",
-          "precio": "17.800",
+          "precio": 17.800,
           "imagen": "https://images.rappi.com/products/tmpImg4df2d17c-15b1-4ee7-baff-87a58a77827b.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"1003",
           "nombre": "2 Nevados Baileys Md",
           "descripcion": "2 Nevados de baileys medianos. este producto contiene licor.",
-          "precio": "41.000",
+          "precio": 41.000,
           "imagen": "https://images.rappi.com/products/tmpImge294b38d-4b27-4d8d-8b4b-abae576558c5.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"1004",
           "nombre": "Combo 4 Granizados Gr",
           "descripcion": "4 Granizados de café grandes.",
-          "precio": "50.900",
+          "precio": 50.900,
           "imagen": "https://images.rappi.com/products/tmpImgf78840a1-b562-4169-902e-e3d8bdae2e5f.png?e=webp&d=511x511&q=85"
         },
         {
           "id":"1005",
           "nombre": "2 Granizados Md+2 Palitosde Queso",
           "descripcion": "Combo de 2 granizados de café medianos + 2 palitos de queso.",
-          "precio": "45.600",
+          "precio": 45.600,
           "imagen": "Combo de 2 granizados de café medianos + 2 palitos de queso."
         }
       ],

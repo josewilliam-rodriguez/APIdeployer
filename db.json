@@ -664,9 +664,9 @@
         },
         {
           "id":"804",
-          "nombre": Yakimeshi,
+          "nombre": "Yakimeshi",
           "descripcion": "Arroz salteado al vapor con pimentón rojo, verde, zanahoria, cebolla larga, cilantro, soya, sal y proteína a elegir, 350 gr.",
-          "precio": "20.000",
+          "precio": 20.000,
           "imagen": "https://images.rappi.com/products/64cafd86-b892-4950-a225-9ac3e9aabe71-1653432543983.png?e=webp&d=511x511&q=85"
         },
         {

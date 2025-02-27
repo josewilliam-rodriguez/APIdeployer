@@ -227,7 +227,7 @@
           "imagen": "https://wsres.vensis.com.co/web/product/Combos-Combo-Picanugys-BBQ.png"
         },
         {
-          "id":"307"
+          "id":"307",
           "nombre": "Frisnacks nuggets grande en cono",
           "descripcion": "13 Trozos de pechuga apanada (15 g und), papas a la francesa grande (100 g), gaseosa (470 ml)",
           "precio": 27.500,
@@ -294,7 +294,7 @@
           "id":"403",
           "nombre": "Promo Mega Familiar",
           "descripcion": "Incluye 3 Bases, 3 Acompañantes y 2 Bebidas 1.5 Litros.",
-          "precio": 102.500
+          "precio": 102.500,
           "imagen": "https://www.bing.com/images/blob?bcid=slG.jUIf4woInSfdkxpK-oQDBoyU.....0I"
         },
         {
@@ -318,7 +318,7 @@
           "precio": 99.700,
           "imagen": "https://www.bing.com/images/blob?bcid=Tp.otFyIkQoIqxcxoNWLuD9SqbotqVTdP9o"
         }
-      ]
+      ],
       "redesSociales": {
         "facebook": "",
         "instagram": ""
@@ -511,7 +511,7 @@
       }
     },
     {
-      "id": "7"
+      "id": "7",
       "nombre": "sushi Green",
       "categorias": [
         "comida oriental",
